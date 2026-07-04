@@ -145,7 +145,7 @@ Here are some of the AI applications that I have personally designed and develop
 
 <div align="center">
 
-<img src="assets/illustrations/workspace.png"
+<img src="workspace.png"
 width="90%"
 alt="AI Workspace"/>
 
