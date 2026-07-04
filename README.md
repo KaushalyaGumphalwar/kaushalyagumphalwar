@@ -1,116 +1,546 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Kaushal Gumphalwar</h1>
-<h3 align="center">A passionate Python & Machine Learning enthusiast | Educator at heart</h3>
+<!-- ========================================================= -->
+<!--              🚀 HERO SECTION + ABOUT ME SECTION START     -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70A63&center=true&vCenter=true&width=435&lines=Python+%7C+Machine+Learning+%7C+Flask+APIs;Explaining+concepts+with+code+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Kaushalya%20Gumphalwar&fontSize=45&fontAlignY=38&desc=GenAI%20Engineer%20%7C%20Building%20Intelligent%20AI%20Systems&descAlignY=58"/>
 
----
+<br>
 
-<!-- Short Intro -->
-🌱 I'm currently working on **Machine Learning & Python explanations** to simplify concepts for learners.
+<h1>👋 Hi, I'm <b>Kaushalya Gumphalwar</b></h1>
 
-🧠 I love building **Flask APIs**, writing clean Python code using **Object-Oriented Programming**, and exploring **real-world ML applications**.
+<h3>
+🚀 GenAI Engineer • Machine Learning Engineer • AI Engineer
+</h3>
 
-📚 I'm documenting my journey by **explaining ML algorithms & Python concepts** through projects and articles.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=1000&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Applications;AI+Agents+%7C+RAG+Systems;Always+Learning.+Always+Building." />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
-</p>
+<div align="center">
 
----
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
 
-<!-- Skills -->
-### 🛠️ Languages & Tools
+</div>
 
-<p align="left">
+<a href="https://github.com/KaushalyaGumphalwar">
 
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOPs%20Concepts-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</a>
 
-  <!-- Libraries -->
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-  <!-- Machine Learning -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-0A0A0A?style=for-the-badge&logo=scikit-learn&logoColor=orange"/>
-
-  <!-- IDEs & Notebooks -->
-  <img src="https://img.shields.io/badge/JupyterNotebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JupyterLab-FAF4E3?style=for-the-badge&logo=jupyter&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
-<!-- What I'm Working On -->
-### 📌 What I'm Currently Working On
+<div align="center">
 
-- 📖 **Explaining ML algorithms** using visualizations, examples & simple Python code.  
-- 🧩 **Writing about Python concepts** like decorators, generators, OOPs, etc.  
-- 🔗 Building & deploying **Flask APIs for ML models.**  
-- ✍️ Documenting all my learnings and mini-projects on GitHub.  
+<img align="right" alt="AI" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" />
-</p>
+</div>
 
----
+# 👨‍💻 Who Am I?
 
-<!-- Projects -->
-### 🧠 Upcoming Project Ideas
+I'm passionate about designing and developing **production-ready Artificial Intelligence applications** that solve real-world problems.
 
-- 🔍 Exploring real-world problems to apply Machine Learning and Python solutions.  
-- 🧪 Creating hands-on mini-projects to explain ML algorithms with clarity.  
-- 🌐 Developing APIs and interactive tools using Flask and Postman.  
-- 📊 Building data-driven applications using Pandas, NumPy, and visualization tools.  
-- 📖 Writing clean, beginner-friendly notebooks to teach core Python and ML concepts.  
+My work focuses on combining modern AI technologies with scalable software engineering to build intelligent, reliable, and practical systems.
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
+## 🧠 Core Expertise
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushalgumphalwar&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalgumphalwar&layout=compact&theme=radical" height="170px"/>
-</p>
+| Area | Focus |
+|------|-------|
+| 🤖 Generative AI | LLM Applications, RAG, Prompt Engineering,  AI Agents, LLM Fine-Tuning|
+| 🧠 Machine Learning | Model Training and Development  |
+| 📚 Deep Learning | Neural Network Applications |
+| 💬 NLP | Text Understanding & Language Models |
+| ⚡ Backend | FastAPI & Flask APIs |
+| ☁️ Deployment | Docker & AWS |
+| 🗄️ Databases | MySQL, MongoDB, Vector Databases |
+| 💻 Programming Languages | Python |
 
 ---
 
-<!-- Quote -->
-> 📢 *"Learning never exhausts the mind, it fuels it."* — Leonardo da Vinci
+## 🎯 Mission
+
+- 🤖 Build impactful AI applications
+- 🧠 Explore Large Language Models (LLMs) & Build LLM-Powered Applications
+- ⚡ Design AI Agent workflows
+- 🔍 Develop intelligent RAG systems
+- 📈 Build Machine Learning Prediction Systems
+- ☁️ Deploy scalable AI applications using Docker & AWS
+- 🚀 Continuously learn and share knowledge
 
 ---
 
-<!-- Connect -->
-### 🤝 Connect with Me
+## 💡 What Drives Me?
 
-<p>
-  <a href="mailto:kaushalofficial22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://github.com/kaushalgumphalwar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+I strongly believe that Artificial Intelligence should go beyond answering questions—it should be capable of understanding, reasoning, planning, and helping people solve meaningful real-world challenges.
 
-📌 I’m also available on **Naukri** (for verified recruiters).  
-📄 [Download My Resume](https://your-resume-link.com)
+Every project I build is an opportunity to learn something new and move one step closer to building more capable and intelligent systems.
+
+My long-term vision is to contribute towards the development of **Artificial General Intelligence (AGI)**,  **Super Intelligence** and future intelligent systems capable of reasoning, planning, learning, and collaborating autonomously.
+
+---
+
+## 📖 My Learning Philosophy
+
+I believe the best way to learn Artificial Intelligence is by **building practical projects**.
+
+That's why I continuously challenge myself to design applications that combine multiple AI technologies into complete end-to-end solutions.
+
+---
+
+## 💬 My Vision
+
+> **"I aspire to contribute toward the development of intelligent systems that can reason, learn, collaborate, and create meaningful impact through Artificial Intelligence."**
+
+
+---
+
+## ⭐ Engineering Principles
+
+✔ Build before you perfect.
+
+✔ Learn by developing real-world projects.
+
+✔ Write clean and maintainable code.
+
+✔ Focus on scalable AI systems.
+
+✔ Continuously improve through practical experience.
+
+---
+
+<div align="center">
+
+### ⭐ *"Building Intelligent Systems That Learn, Reason, and Create Real-World Impact."*
+
+</div>
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7C4DFF&height=4"
+width="100%"
+alt="Divider"/>
+
+</div>
+
+<!-- ========================================================= -->
+<!--               🚀 HERO SECTION + ABOUT ME SECTION END      -->
+<!-- ========================================================= -->
+
+<br>
+
+<!-- ========================================================= -->
+<!--         🚀 FEATURED PROJECTS SECTION START            -->
+<!-- ========================================================= -->
+
+# 🚀 Featured AI Projects
+
+Here are some of the AI applications that I have personally designed and developed. These projects demonstrate my expertise in **Generative AI, Machine Learning, Natural Language Processing, Backend Development, and Deployment.**
+
+<br>
+
+<div align="center">
+
+<img src="assets/illustrations/workspace.png"
+width="90%"
+alt="AI Workspace"/>
+
+</div>
+
+<br>
+
+---
+
+## 🛍️ ShopAssist AI
+
+### AI-Powered Customer Support System using RAG
+
+**Status:** ✅ Completed
+
+**Description:** An intelligent customer support assistant that leverages **Retrieval-Augmented Generation (RAG)**  and **Large Language Models (LLMs)** to answer customer queries using business-specific knowledge.
+
+**Domain:** Retail Customer Support
+
+**Tech Stack**
+
+`Generative AI` `RAG` `Prompt Engineering` `LangChain` `Gemini API` `Vector Database` `Embeddings` 
+`Semantic Search` 
+`NLP`
+`Python` `NumPy` `Pandas` 
+`FastAPI` 
+`Docker` 
+
+**Highlights**
+
+- AI Customer Support Assistant
+- Context-Aware Question Answering
+- Retrieval-Augmented Generation
+- Semantic Search & Retrieval
+- FastAPI API Backend
+- Dockerized Deployment
+- Modular Project Architecture
+
+🔗 **Repository:** [ShopAssist AI](https://github.com/KaushalyaGumphalwar/shopassist-ai)
+
+---
+
+## 📄 ReportIQ
+
+### AI-Based Document Intelligence System
+
+**Status:** ✅ Completed 
+
+**Description:** An intelligent document analysis system capable of understanding uploaded documents and answering questions using LLMs.
+
+**Domain:** Document Intelligence
+
+**Tech Stack**
+
+`Generative AI` `RAG` `Prompt Engineering` `LangChain` `Gemini API` `Vector Database` `Embeddings` 
+`Semantic Search` `Document Processing` 
+`NLP`
+`Python` `NumPy` `Pandas`
+`FastAPI`
+`Docker`
+
+**Highlights**
+
+- Intelligent PDF Question Answering
+- AI Document Summarization
+- Retrieval-Augmented Generation
+- Semantic Retrieval
+- FastAPI Backend
+- Dockerized Deployment
+- Modular Project Architecture
+
+🔗 **Repository:** [ReportIQ](https://github.com/KaushalyaGumphalwar/reportiq-ai-document-intelligence)
+
+---
+
+## 📈 DemandSense
+
+### Machine Learning Sales Forecasting System
+
+**Status:** ✅ Completed 
+
+**Description:** A machine learning application that predicts future sales using historical business data and advanced forecasting techniques.
+
+**Domain:** Sales Analytics
+
+**Tech Stack**
+
+`Machine Learning` `Scikit-Learn` `Hyperparameter Optimization Methods`
+`Python` `NumPy` `Pandas`
+`FastAPI`
+`Docker`
+
+**Highlights**
+
+- Sales Forecasting
+- Model Development
+- Hyperparameter Optimization
+- FastAPI Backend
+- Dockerized Deployment
+- Modular Project Architecture
+- Production-Ready Inference Pipeline
+
+🔗 **Repository:** [DemandSense](https://github.com/KaushalyaGumphalwar/demandsense-ai)
+
+---
+
+## 🎤 MeetScribe
+
+### AI Meeting Intelligence Platform
+
+**Status:** 🚧 Work in Progress
+
+**Description:** An AI-powered meeting assistant that converts meeting audio into transcripts and automatically generates structured Minutes of Meeting (MoM).
+
+**Domain:** Productivity AI
+
+**Tech Stack**
+
+`Generative AI` `Whisper` `Open Source LLM` `Automatic Speech Recognition` `Prompt Engineering`
+`NLP`
+`Python` `NumPy` `Pandas` 
+`FastAPI`
+`Docker`
+
+**Highlights**
+
+- Speech-to-Text (Speech Recognition)
+- AI Meeting Summaries
+- Minutes of Meeting Generation
+- Automatic Transcript Processing
+- FastAPI API Backend
+- Dockerized Deployment
+- Modular Project Architecture
+
+🔗 **Repository**: *Coming Soon*
+
+---
+
+# 🎯 More AI Projects Coming Soon...
+
+I continuously build production-ready AI applications focused on solving real-world business problems.
+
+Stay tuned for more exciting projects in:
+
+- 🤖 AI Agents
+- 🧠 Artificial General Intelligence (AGI)
+- 🌍 Multi-Agent Systems
+- 🚀 Generative AI
+- 📚 Deep Learning
+- 📈 Machine Learning
+
+</div>
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7C4DFF&height=4"
+width="100%"
+alt="Divider"/>
+
+</div>
+
+<!-- ========================================================= -->
+<!--          🚀 FEATURED PROJECTS SECTION END             -->
+<!-- ========================================================= -->
+
+<br>
+
+<!-- ========================================================= -->
+<!--     🎯 CURRENT FOCUS & FUTURE VISION SECTION START        -->
+<!-- ========================================================= -->
+
+# 🎯 Current Focus & Future Vision
+
+## 🚀 What I'm Currently Building
+
+I am currently focused on designing and developing **production-ready AI applications** that combine modern Artificial Intelligence techniques with scalable backend engineering.
+
+### Current Areas of Focus
+
+- 🧠 Generative AI Applications
+- 🤖 AI Agents & Multi-Agent System Development
+- 📚 Retrieval-Augmented Generation (RAG)
+- 💬 Large Language Model (LLM) Applications
+- ⚡ FastAPI Backend Development
+- 🐳 Dockerized AI Solutions
+- ☁️ AWS Cloud Deployment
+- 📈 Production-Ready Machine Learning Systems
+
+---
+
+## 🌱 Currently Learning
+
+Artificial Intelligence evolves rapidly, so I continuously invest time in learning new technologies and improving my engineering skills.
+
+Currently exploring:
+
+- 👥 Multi-Agent Systems
+- 🔥 Advanced RAG Pipelines
+- 🤖 Agentic AI
+- 🧠 LLM Fine-Tuning
+- 🏗️ AI System Architecture
+- ☁️ Scalable AI Infrastructure
+
+---
+
+## 🌍 Long-Term Vision
+
+My long-term goal is to contribute to the development of intelligent systems capable of solving meaningful real-world problems through Artificial Intelligence.
+
+### Areas I Aspire to Work On
+
+- 🧠 Super Artificial Intelligence (SAI)
+- 🌍 Artificial General Intelligence (AGI)
+- 🤖 Agentic AI
+- 👥 Multi-Agent Systems
+- 📚 Next-Generation Intelligent Systems
+- 🧬 Deep Learning Research
+- 📈 Machine Learning Systems
+- ☁️ Large-Scale AI Infrastructure
+- 🚀 Enterprise AI Platforms
+
+
+---
+
+# 💡 Engineering Philosophy
+
+> **"Artificial Intelligence becomes truly valuable when it transforms complex ideas into practical solutions that positively impact people's lives.**
+> **Artificial Intelligence should not only automate tasks, but also empower people to solve meaningful real-world problems."**
+
+I believe successful AI engineering is built on:
+
+- ✅ Strong fundamentals
+- ✅ Practical implementation
+- ✅ Clean software engineering
+- ✅ Continuous experimentation
+- ✅ Lifelong learning
+
+---
+
+<div align="center">
+
+## 🚀 Learning Today • Building Today • Innovating for the Future
+
+</div>
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7C4DFF&height=4"
+width="100%"
+alt="Divider"/>
+
+</div>
+
+<!-- ========================================================= -->
+<!--           CURRENT FOCUS & FUTURE VISION SECTION END        -->
+<!-- ========================================================= -->
+
+<br>
+
+<!-- ========================================================= -->
+<!--               🌐 CONNECT WITH ME SECTION START            -->
+<!-- ========================================================= -->
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+### Let's Build the Future of Artificial Intelligence Together 🚀
+
+Whether you're a recruiter, researcher, AI enthusiast, or fellow developer,
+I'm always happy to connect and collaborate.
+
+</div>
+
+---
+
+# 💼 Professional Profiles
+
+<div align="center">
+
+<a href="https://github.com/KaushalyaGumphalwar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📬 Contact
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🤝 Open to Collaborate On
+
+- 🤖 Generative AI Applications
+- 👥 AI Agents
+- 📚 RAG Systems
+- 🧠 Machine Learning
+- 🧬 Deep Learning
+- 💬 Natural Language Processing
+- 🌍 Contribute to Open Source Projects
+
+I'd be happy to connect and collaborate.
+
+If you're interested in collaboration, internships, full-time opportunities, research, or simply discussing AI, feel free to reach out.
+
+---
+
+<div align="center">
+
+## ⭐ Let's Connect, Learn & Build Together!
+
+*"Great AI systems are built through curiosity, collaboration, and continuous learning."*
+
+</div>
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7C4DFF&height=4"
+width="100%"
+alt="Divider"/>
+
+</div>
+
+<!-- ========================================================= -->
+<!--                🌐 CONNECT WITH ME SECTION START           -->
+<!-- ========================================================= -->
+
+<br>
+
+<!-- ========================================================= -->
+<!--                 🌟 FOOTER SECTION START                   -->
+<!-- ========================================================= -->
+
+# 🌟 Thank You for Visiting
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=850&lines=Thank+you+for+visiting+my+GitHub+Profile!;Let's+Build+the+Future+with+Artificial+Intelligence.;Always+Learning+•+Always+Building+•+Always+Growing." />
+
+<div align="center">
+
+<h2><strong>💙 I truly appreciate your visit.</h2>
+
+</div>
+
+### ⭐ If you enjoy my work...
+
+⭐ Follow my GitHub Profile
+
+⭐ Explore my AI Projects
+
+⭐ Star repositories you find useful
+
+⭐ Let's collaborate on exciting AI projects
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"
+  width="100%"
+  alt="Footer Wave"/>
+
+</div>
+
+<div align="center">
+
+### 🤖 Engineering the Future with Artificial Intelligence 🤖
+
+</div>
+
+<!-- ========================================================= -->
+<!--                🌟 FOOTER SECTION END                      -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7C4DFF&height=4"
+width="100%"
+alt="Divider"/>
+
+</div>
+
+<!-- ========================================================= -->
+<!--                     END OF README                          -->
+<!-- ========================================================= -->
